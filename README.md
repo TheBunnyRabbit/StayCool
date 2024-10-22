@@ -1,2 +1,1 @@
 # StayCool [WIP]
-🚧 Coming Soon
